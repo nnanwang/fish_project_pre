@@ -1,0 +1,143 @@
+[
+  {
+    "id": "esox-lucius",
+    "chineseName": "白斑狗鱼",
+    "englishName": "Northern Pike",
+    "scientificName": "Esox lucius",
+    "scientificAuthor": "Linnaeus, 1758",
+
+    "taxonomy": {
+      "class": "辐鳍鱼纲",
+      "order": "狗鱼目",
+      "family": "狗鱼科",
+      "genus": "狗鱼属"
+    },
+
+    "status": {
+      "nativeStatus": "中国原生",
+      "iucnStatus": "",
+      "protectedLevel": ""
+    },
+
+    "basicInfo": {
+      "maximumLengthCm": null,
+      "averageLengthCm": null,
+      "lifespanYears": null,
+      "diet": ["肉食性"],
+      "activity": ["伏击型"],
+      "waterType": ["淡水"],
+      "waterLayer": ["中层", "底层"]
+    },
+
+    "appearance": {
+      "summary": "身体细长，灰绿色或暗褐色的侧面布满浅色斑点。",
+      "bodyShape": "细长型",
+      "primaryColors": ["灰绿色", "暗褐色"],
+      "patterns": ["浅色斑点"],
+      "mouthPosition": "端位",
+      "barbels": false,
+      "scaleType": "",
+      "dorsalFinCount": 1,
+      "tailShape": "分叉形",
+      "keyFeatures": [
+        "身体细长",
+        "吻部较长",
+        "侧面具有浅色斑点"
+      ],
+      "sexualDifferences": "雌性生长速度通常高于雄性，成年雌性个体更大。"
+    },
+
+    "distribution": {
+      "chinaRegions": ["新疆"],
+      "riverSystems": ["额尔齐斯河流域"],
+      "globalRegions": [],
+      "description": "在中国主要分布于新疆额尔齐斯河流域。"
+    },
+
+    "habitat": {
+      "environment": ["湖泊", "河流"],
+      "waterFlow": ["缓流", "流水"],
+      "bottomType": [],
+      "temperatureMinC": null,
+      "temperatureMaxC": null,
+      "phMin": null,
+      "phMax": null,
+      "dissolvedOxygen": "偏好溶氧量较高的水体",
+      "description": "典型冷水性鱼类，偏好水质清澈、溶氧量高且流动性良好的水体。"
+    },
+
+    "ecology": {
+      "feedingBehavior": "伏击其他鱼类",
+      "food": ["小型鱼类"],
+      "behavior": "具有伏击行为，也可能出现同类相食。",
+      "reproduction": ""
+    },
+
+    "care": {
+      "suitableForAquarium": false,
+      "difficulty": "困难",
+      "beginnerFriendly": false,
+      "minimumTankLiters": null,
+      "recommendedTemperatureC": "",
+      "feedingAdvice": "",
+      "specialRequirements": [
+        "需要较大的活动空间",
+        "需要高溶氧水体"
+      ],
+      "warning": "不建议新手饲养。"
+    },
+
+    "identification": {
+      "waterType": ["freshwater"],
+      "bodyShape": "elongated",
+      "mouthPosition": "terminal",
+      "barbels": false,
+      "tailShape": "forked",
+      "patterns": ["light-spots"],
+      "regions": ["xinjiang"],
+      "keywords": [
+        "冷水鱼",
+        "细长",
+        "浅色斑点",
+        "伏击型"
+      ]
+    },
+
+    "images": {
+      "cover": {
+        "src": "/images/fish/esox-lucius/adult.jpg",
+        "alt": "成年白斑狗鱼的侧面照片",
+        "caption": "成年白斑狗鱼",
+        "source": "",
+        "license": ""
+      },
+      "gallery": [
+        {
+          "src": "/images/fish/esox-lucius/juvenile.jpg",
+          "alt": "白斑狗鱼幼体的侧面照片",
+          "caption": "幼年白斑狗鱼",
+          "source": "",
+          "license": ""
+        },
+        {
+          "src": "/images/fish/esox-lucius/habitat.jpg",
+          "alt": "白斑狗鱼生活的冷水湖泊环境",
+          "caption": "典型栖息环境",
+          "source": "",
+          "license": ""
+        }
+      ]
+    },
+
+    "sources": [
+      {
+        "title": "FishBase: Esox lucius",
+        "url": "",
+        "organization": "FishBase",
+        "accessDate": ""
+      }
+    ],
+
+    "lastUpdated": "2026-07-21"
+  }
+]
